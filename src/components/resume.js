@@ -23,12 +23,11 @@ class Resume extends React.Component {
                             <ul>
                                 <DisplayArray array={[
                                     'Good grasp of algorithms',
-                                    'Sound knowledge of JS, HTML and CSS',
-                                    'Familiarity with React',
-                                    'Basic back end programming experience (Go, Node.JS)',
+                                    'Sound knowledge of JS, HTML and CSS (SASS)',
+                                    'Good knowledge of React, Go and Node JS basics',
                                     'Good knowledge of Python',
-                                    'Development experience with JetBrains IDEs and Linux terminal',
-                                    'Working knowledge of git, JIRA and Jenkins'
+                                    'Developing using IntelliJ, Linux, git, JIRA and Jenkins',
+                                    'Advanced level of the English language'
                                 ]}/>
                             </ul>
                         </Cell>
@@ -36,12 +35,12 @@ class Resume extends React.Component {
                         <Cell col={4}>
                             <h4>My work ethic</h4>
                             <DisplayArray array={[
-                                'Always look forward to learning new technologies and concepts',
-                                'Be open to feedback and be eager to improve',
-                                'Try to do my best to come up with a creative solution',
-                                'Feel comfortable working alone and in a team',
-                                'Ask questions',
-                                'Do my best to provide assistance'
+                                'Always be learning and discover new approaches',
+                                'Invent new creative solutions',
+                                'Work effectively alone and as a part of a team',
+                                'Ask questions and seek answers',
+                                'Help others',
+                                'Be open to critique and suggestions'
                             ]}/>
                         </Cell>
 
@@ -67,10 +66,9 @@ class Resume extends React.Component {
                                 <DisplayArray array={[
                                     'Created a script to classify all used tests',
                                     'Wrote automated tests for an IP system',
-                                    'Participated in an agile work process in a team of 6',
-                                    'Updated a number of legacy tests to meet the new requirements',
-                                    'Fixed issues found at a code review',
-                                    'Helped to create a knowledge base for test scenarios'
+                                    'Worked in an agile team of 6',
+                                    'Updated legacy tests',
+                                    'Fixed code review issues',
                                 ]}/>
                             </Cell>
 
@@ -80,10 +78,10 @@ class Resume extends React.Component {
                                 <p><strong>Period: </strong>December 2018 - July 2019</p>
                                 <p><strong>Accomplishments:</strong></p>
                                 <DisplayArray array={[
-                                    'Consulted English- and Russian-speaking clients over the phone regarding company\'s products',
+                                    'Helped English- and Russian-speaking clients over the phone and via a support portal',
                                     'Troubleshooted customer\'s problems',
                                     'Reviewed logs to locate bugs and inproper software functioning',
-                                    'Reproduces customer\'s situations to give feedback',
+                                    'Reproduces customers\' problems and gave feedback',
                                 ]}/>
                             </Cell>
                         </Grid>
